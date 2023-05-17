@@ -1,0 +1,24 @@
+/**
+ metadata
+ * @name nezuko
+ * @author Zerthox
+ * @version 6 BETA
+ * @description Public BETA for ClearVision v6.
+ * @source https://github.com/ClearVision/v6
+ * @website https://clearvision.gitlab.io/join
+*/
+
+@import url(https://feedmes1eep.github.io/bdskin/windows/CustomCVv6.css);
+
+:root{
+	--main-color: #9900ff; 
+	--hover-color: #8400ff; 
+	--border-main-color: #9900ff; 
+    --border-dark-color:#50009b;
+	--border-light-color: #a341ff;
+	--secondary-color: #9b4dc8;
+	--third-color: #a676ff;
+    --darker-color:#2d0057;
+    --light-color:#d8a9ff;
+    --background-image: url(https://i.imgur.com/aSU8TyC.jpg) /* link must be an HTTPS */
+}
